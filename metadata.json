@@ -1,0 +1,5 @@
+{
+  "name": "Nexus AI Agent Framework",
+  "description": "An autonomous, multi-tasking AI agent framework with dynamic planning, contextual memory, and MCP support.",
+  "requestFramePermissions": []
+}
